@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "meena",
+      "branch": "IT",
+      "email": "x@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "julie",
+      "branch": "mech",
+      "email": "x@gmail.com"
+    },
+    {
+      "id": "",
+      "name": "",
+      "branch": "",
+      "email": ""
+    },
+    {
+      "id": "2",
+      "name": "keers",
+      "branch": "csed",
+      "email": "xtz@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "lily",
+      "branch": "it",
+      "email": "x@gmail.com"
+    }
+  ]
+}
